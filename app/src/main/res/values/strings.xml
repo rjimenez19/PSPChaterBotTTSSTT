@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PSPChaterBotTTSSTT</string>
+    <string name="hablar">Hablar</string>
+    <string name="nada"></string>
+    <string name="mensaje">Mensaje: </string>
+    <string name="respuesta">Respuesta: </string>
+</resources>
